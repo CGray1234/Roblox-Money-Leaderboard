@@ -1,5 +1,3 @@
-local Player = game:GetService("Players").LocalPlayer
-
 local DataStoreService = game:GetService("DataStoreService")
 
 local moneyDataStore = DataStoreService:GetDataStore("moneyDataStore")
